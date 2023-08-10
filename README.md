@@ -26,16 +26,16 @@ Dataset `urbanization_rot.csv`:
 
 ## 3. Visualization
 - Trend by Week <br>
-![Trend by Week](img/4.b.1.png)
+![Trend by Week](img/Riwayat-Trending-by-week.png)
 
 - Trend by Region <br>
-![Trend by Week](img/4.b.1.png)
+![Trend by Week](img/Riwayat-Trending-by-region.png)
 
 - Highlight Table <br>
-![Trend by Week](img/4.b.1.png)
+![Trend by Week](img/Highlight-table.png)
 
 - Dashboard <br>
-![Trend by Week](img/4.b.1.png)
+![Trend by Week](img/Dashboard-1.png)
 
 ## 4 . Conclusion
 
