@@ -2,7 +2,6 @@
 Project portfolio : Create Visualization and Dashboard with Tableau.
 
 ## 1. Business Understanding
-Home World is a company engaged in retail building materials. Each customer has a membership card, where to join the loyalty program you can subscribe for $ 20 / month. The program includes discounts, special offers and gifts.
 
 Objective :
 
