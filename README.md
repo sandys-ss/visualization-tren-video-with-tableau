@@ -39,3 +39,8 @@ Dataset `urbanization_rot.csv`:
 
 ## 4 . Conclusion
 
+- Based on weekly trends, the most categories are entertainment, music, people & blogs, comedy, and news & politics.
+
+- The largest distribution of video access is in the United States area, the difference with the area of France, Russia and India is not so big. The lowest is from the Japan area.
+
+- The most popular category is entertainment equals France, India and Japan. But it's not like that in Russia, top popular is people & blogs.
